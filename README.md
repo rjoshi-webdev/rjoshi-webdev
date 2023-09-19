@@ -6,3 +6,16 @@
 
 <p>My expertise covers the following skills: Laravel, Core PHP, WordPress Development, Plugin and Theme Customization, Bug Fixing, Website Optimization, Custom Panel Development, API Development and Integration, and Responsive Web Design.
 </p>
+<p>🚀 Full-Stack Web Developer | Laravel Enthusiast | WordPress Customization Specialist</p>
+
+<p>🌐 Experienced in building dynamic web applications using Laravel, crafting seamless user experiences through WordPress customization, and diving deep into the world of core PHP development.</p>
+
+<p>🔗 API Integration Pro | Payment Gateway Maestro | Plugin Developer Extraordinaire</p>
+
+<p>🤝 I'm passionate about creating powerful APIs, integrating third-party services, and optimizing websites for peak performance. I thrive on solving complex challenges and delivering tailored solutions.</p>
+
+<p>💼 Freelancer | Open Source Advocate | Continuous Learner</p>
+
+<p>💡 With a strong commitment to excellence, I offer freelance services, share my knowledge through open-source contributions, and stay up-to-date with the latest web development trends.</p>
+
+<p>📈 Let's collaborate and turn your web ideas into reality! Reach out for custom web solutions, API integrations, and more.</p>
