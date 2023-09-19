@@ -22,7 +22,7 @@ My expertise includes:
 
 ## About Me
 
-- 🚀 Full-Stack Web Developer | Laravel Enthusiast | WordPress Customization Specialist
+- 🚀 core PHP | Laravel Enthusiast | WordPress Customization Specialist
 - 🌐 Experienced in building dynamic web applications using Laravel, crafting seamless user experiences through WordPress customization, and diving deep into the world of core PHP development.
 - 🔗 API Integration Pro | Payment Gateway Maestro | Plugin Developer Extraordinaire
 - 🤝 Passionate about creating powerful APIs, integrating third-party services, and optimizing websites for peak performance. I thrive on solving complex challenges and delivering tailored solutions.
