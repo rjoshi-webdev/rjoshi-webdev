@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Rahul, a web developer with over 10 years of experience in Core PHP, Laravel, and WordPress. During my career, I've built extensive websites capable of handling 1000+ services and effectively managing high user traffic. My specialization lies in customization. I've worked on websites, adding customizations through theme templates, and developing helper plugins to incorporate new functionalities without affecting plugin updates.
+I'm Rahul, a web developer with over 10 years of experience in Core PHP, Laravel, and WordPress. During my career, I've built extensive websites capable of handling 1000+ services and effectively managing high user traffic. My specialization lies in customization. I've worked on websites, adding customizations through theme templates, and developing helper plugins to incorporate new functionalities without affecting updates.
 
 ## Expertise
 
